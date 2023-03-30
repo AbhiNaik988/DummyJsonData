@@ -1,0 +1,141 @@
+{
+  "statusCode" : 200,
+  "msg" : "Retrieved Successfully!",
+  "data" : [
+    {
+      "isMultivalue" : false
+    },
+    {
+      "subordinates" : [
+        { 
+            "name" : "dwayne bravo",
+            "age"  : 22,
+            "gender" : "male"
+        },
+        { 
+            "name" : "natasha romanoff",
+            "age"  : 21,
+            "gender" : "female"
+        },
+        { 
+            "name" : "tony stark",
+            "age"  : 23,
+            "gender" : "male"
+        },
+        { 
+            "name" : "wanda maximoff",
+            "age"  : 20,
+            "gender" : "female"
+        },
+        { 
+            "name" : "stever rogers",
+            "age"  : 24,
+            "gender" : "male"
+        },
+        { 
+            "name" : "hope",
+            "age"  : 22,
+            "gender" : "female"
+        }
+      ]
+    },
+    [
+      {
+        "id" : "1",
+        "category" : "first-category"
+      },
+      {
+        "id" : "2",
+        "category" : "second-category"
+      },
+      {
+        "id" : "3",
+        "category" : "third-category"
+      },
+      {
+        "id" : "4",
+        "category" : "fourth-category"
+      }
+    ],
+    {
+       "1" : [
+          { 
+            "id" : "4",
+            "subc" : "first-sub-1"
+          },
+          { 
+            "id" : "5",
+            "subc" : "first-sub-2"
+          },
+          { 
+            "id" : "6",
+            "subc" : "first-sub-3"
+          },
+          { 
+            "id" : "7",
+            "subc" : "first-sub-4"
+          }
+       ]
+    },
+    {
+       "2" : [
+          { 
+            "id" : "8",
+            "subc" : "second-sub-1"
+          },
+          { 
+            "id" : "9",
+            "subc" : "second-sub-2"
+          },
+          { 
+            "id" : "10",
+            "subc" : "second-sub-3"
+          },
+          { 
+            "id" : "11",
+            "subc" : "second-sub-4"
+          }
+       ]
+    },
+    {
+       "3" : [
+          { 
+            "id" : "12",
+            "subc" : "third-sub-1"
+          },
+          { 
+            "id" : "13",
+            "subc" : "third-sub-2"
+          },
+          { 
+            "id" : "14",
+            "subc" : "third-sub-3"
+          },
+          { 
+            "id" : "15",
+            "subc" : "third-sub-4"
+          }
+       ]
+    },
+    {
+       "4" : [
+          { 
+            "id" : "16",
+            "subc" : "fourth-sub-1"
+          },
+          { 
+            "id" : "9",
+            "subc" : "fourth-sub-2"
+          },
+          { 
+            "id" : "10",
+            "subc" : "fourth-sub-3"
+          },
+          { 
+            "id" : "11",
+            "subc" : "fourth-sub-4"
+          }
+       ]
+    }
+  ]
+}
